@@ -3,6 +3,7 @@
 ```
 git clone https://github.com/KarAshutosh/S3_Sec_Tester.git
 cd S3_Sec_Tester
+python S3_Hacker.py
 ```
 
 
