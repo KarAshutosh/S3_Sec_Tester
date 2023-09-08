@@ -7,10 +7,10 @@ cd S3_Sec_Tester
 
 
 # Usage
-Change the variable `option` in S3_Hacker.py 
-1 --> Single bucket
-2 --> Array of bucket names 
-3 --> File of bucket names
+Change the variable `option` in S3_Hacker.py  
+* 1 --> Single bucket
+* 2 --> Array of bucket names 
+* 3 --> File of bucket names
 
 Also remember changing the variables `bucket_name`, `bucket_name` or `file_path` based on what you select for option
 

@@ -17,7 +17,7 @@ bucket_names = ["ak-s3-testing", "ak-s3-testing"]
 file_path = "bucket_names_file.txt"
 
 # Allow using rm function
-allow_rm = True
+allow_rm = False
 
 
 def no_sign_list_s3_bucket(bucket_name):
