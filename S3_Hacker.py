@@ -208,8 +208,6 @@ if option == 3:
         runall(bucket_names_from_file[i], allow_rm)
 
 
-
-
 # Note: Ensure theat s3 bucket in the desired region is working. 
 # At times there may be routing issues
 # Example: nslookup s3.ap-south-1.amazonaws.com
