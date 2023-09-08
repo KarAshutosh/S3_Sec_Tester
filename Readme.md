@@ -14,6 +14,8 @@ Change the variable `option` in S3_Hacker.py
 
 Also remember changing the variables `bucket_name`, `bucket_name` or `file_path` based on what you select for option
 
+If it says "AccessDenied" then the bucket is secure
+
 
 # Prerequisite 
 
